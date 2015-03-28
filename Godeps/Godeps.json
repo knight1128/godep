@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/knight1128/godep",
+	"GoVersion": "go1.4.2",
+	"Deps": [
+		{
+			"ImportPath": "github.com/ddliu/go-httpclient",
+			"Comment": "v0.5.0-1-gc94e588",
+			"Rev": "c94e588d6261421924e2fd042ffba9cf7054f62a"
+		}
+	]
+}
